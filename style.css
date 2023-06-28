@@ -1,0 +1,288 @@
+* {
+  font-family: Poppins;
+}
+.first_out {
+  width: 100%;
+  height: 100vh;
+  padding: 90px;
+}
+.col-sm-6.cont {
+  padding-right: 0px;
+  padding-left: 0px;
+  position: relative;
+  display: flex;
+  height: calc(100vh - 180px);
+  align-items: center;
+  justify-content: flex-start;
+}
+.text-left {
+  width: 411px;
+  color: #161616;
+  font-size: 40px;
+  font-weight: 700;
+}
+.color-change {
+  position: relative;
+  color: #b42ab5;
+}
+p.p-text {
+  width: 513px;
+  color: #616161;
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 21.36px;
+  margin-bottom: 28px;
+}
+.text-vec {
+  position: relative;
+  display: flex;
+}
+.arrow-vec {
+  top: 4px;
+  right: -41px;
+  position: absolute;
+}
+svg.vec1 {
+  right: 0px;
+  position: absolute;
+  bottom: 2px;
+}
+.row-1.btns {
+  align-items: center;
+  display: flex;
+}
+.round {
+  margin-right: 19px;
+  position: relative;
+  cursor: pointer;
+  width: 56px;
+  height: 56px;
+  border-radius: 28px;
+  background: #b42ab5;
+}
+svg.arrow-r {
+  left: 23px;
+  bottom: 18px;
+  position: absolute;
+}
+.col.colr {
+  cursor: pointer;
+  color: #b42ab5;
+  font-size: 14px;
+  font-weight: 600;
+}
+.rec-1 {
+  width: 225.485px;
+  background: #344ac1;
+  padding: 30px;
+}
+.p-com {
+  margin-top: 14px;
+  width: auto;
+  color: #fff;
+  font-size: 13.062px;
+}
+.headline-c {
+  margin-top: 23px;
+  color: #fff;
+  font-size: 13.062px;
+  font-weight: 600;
+  line-height: 12.191px;
+}
+.half-circle {
+  margin-left: 169px;
+  margin-bottom: 19px;
+  border-radius: 88.301px 0px 0px 0px;
+  background: #fdd400;
+  width: 57.035px;
+  height: 57.035px;
+}
+.parent {
+  position: relative;
+}
+.yellow-arrows {
+  height: 93px;
+  margin-left: 100px;
+}
+.parent.right-2 {
+  margin-left: 20px;
+}
+.rec-1.sec {
+  width: 318.146px;
+  background: #388a7c;
+}
+
+.rec-1.thir {
+  width: 269.667px;
+  background: #151517;
+}
+.half-circle-3 {
+  margin-left: 15px;
+  width: 34.454px;
+  height: 34.454px;
+  border-radius: 0px 0px 88.301px 0px;
+  background: #b42ab5;
+}
+.diff {
+  margin-top: 25px;
+  display: flex;
+}
+.col-sm-6.cont.sd {
+  justify-content: right !important;
+}
+h3.text-left.two {
+  width: auto;
+}
+.first_out.one {
+  background: #e7e9f8;
+}
+.col-sm-6.cont.dd {
+  justify-content: center !important;
+}
+.rec-1.offer {
+  padding-bottom: 26px;
+  padding-right: 45px;
+  padding-top: 42px;
+  padding-left: 45px;
+  width: 206.421px;
+  height: 341.893px;
+  border-radius: 6px;
+  background: #344ac1;
+}
+.rup {
+  color: #fff;
+  font-size: 50px;
+  font-family: Open Sans;
+}
+.per-head {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.offe {
+  margin: auto;
+  color: #fdd400;
+  font-size: 13px;
+  font-family: Poppins;
+  text-align: center;
+  padding: 5px;
+  height: 27px;
+  width: 72px;
+  border-radius: 64px;
+  border: 1px solid rgba(253, 212, 0, 0.57);
+}
+.parent.other {
+  text-align: center;
+}
+.round-grey {
+  width: 21.717px;
+  height: 21.717px;
+  border-radius: 21.717px;
+  background: #e7e9f8;
+}
+.coli {
+  margin-top: 60px;
+  position: relative;
+  display: flex;
+}
+.get-now {
+  margin-top: 35px;
+  color: #FFF;
+  font-size: 18px;
+  letter-spacing: 3.06px;
+  text-transform: uppercase;
+}
+.round-grey {
+  position: absolute;
+  width: 21.717px;
+  height: 21.717px;
+  border-radius: 21.717px;
+  background: #e7e9f8;
+  left: -54px;
+}
+.round-grey.vf {
+  left: 148px;
+}
+.line {
+  top: 8px;
+  left: -34px;
+  position: absolute;
+  width: 182px;
+  border-bottom: 4px dashed #e7e9f8;
+  opacity: 0.5;
+}
+
+svg.vec09 {
+  left: 29px;
+  bottom: 0px;
+  position: absolute;
+}
+svg.vec09.no {
+  left: 0px;
+}
+@media screen and (max-width: 1307px){
+  .col-sm-6.cont {
+    width: 100% !important;
+    height: auto;
+    justify-content: center;
+}
+.col-sm-6.cont.sd {
+  margin-top: 60px;
+  justify-content: center !important;
+}
+.text-vec {
+  text-align: center;
+}
+.col-sm-6.cont.dd {
+  margin-top: 65px;
+}
+
+}
+@media screen and (max-width: 451px){
+  .first_out {
+    width: 100%;
+height: auto;
+  }
+  .first_out {
+
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+.col-sm-6.cont {
+  display: block;
+}
+.text-left {
+  width: 220px;
+  font-size: 30px;
+}
+p.p-text {
+  
+  width: auto;
+}
+.arrow-vec {
+  right: 5px;
+}
+svg.vec09.no {
+  left: unset;
+  right: 96px;
+}
+.rec-1 {
+  margin: auto;
+}
+.half-circle {
+  margin-left: 218px;
+}
+.parent.right-2 {
+  margin: auto;
+}
+.parent {
+  margin-bottom: 20px;
+}
+svg.vec09 {
+  left: -229px;
+  bottom: -2px;
+}
+
+}
